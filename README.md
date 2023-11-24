@@ -7,3 +7,4 @@
   </a>
 
  🌱 I’m currently learning TypeScript
+</p>
