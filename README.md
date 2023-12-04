@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<p> Hi, i'm MARCELLO LEONE</p>
+<p> 🏖 Hi, i'm MARCELLO LEONE, jr FullStack Developer</p>
 
  🌱 I’m currently learning TypeScript
 </p>
