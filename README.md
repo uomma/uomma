@@ -1,4 +1,7 @@
-
+<ul>
+ <li>🗿 Hi, i'm MARCELLO LEONE, jr FullStack Developer</li>
+ <li></li> <li></li> <li></li>
+</ul>
 <p>🗿 Hi, i'm MARCELLO LEONE, jr FullStack Developer</p>
 <p>⚖ Balancing life between coding and sporting  </p>
 <p>🏗 I’m learning TypeScript</p>
